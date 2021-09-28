@@ -1,8 +1,8 @@
 # Dev-Sec-Ops Demo/Assignment
 
-[![codecov](https://codecov.io/gh/PGCSEDS-IIITH/devsecops-iris/branch/master/graph/badge.svg?token=EILEH8L7R5)](https://codecov.io/gh/PGCSEDS-IIITH/devsecops-iris)
+[![codecov](https://codecov.io/gh/Aditi1698/devsecops-iris/branch/master/graph/badge.svg?token=2ZJ9KGV27N)](https://codecov.io/gh/Aditi1698/devsecops-iris)
 
-This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` application which predicts the flower class using the IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+This repository contains code which is demonstrating Dev-Sec-Ops using a `FastAPI` application which predicts the flower class using the IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
 ## Running Instructions
 - Create a fork of the repo using the `fork` button.
@@ -19,7 +19,7 @@ This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` a
 
 
 ## Assignment Tasks
-- Fix badge to show coverage for your repo. (hint: find correct link for badge from codecov.io)
+- Fix badge, this will show coverage for your repo. (hint: find correct link for badge from codecov.io)
 - Add OS to matrix strategy along with PYTHON to test with different operating systems like `ubuntu-latest`, `windows-latest`  etc.
 - Improve code coverage and bring it above 95%
 - Make a visualisation for sarif report using any tool. upload screenshot, image, html or pdf. Add it to the reports/ folder. 
